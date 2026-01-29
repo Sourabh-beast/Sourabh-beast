@@ -1,4 +1,4 @@
-# Hiiiiiieeeeeeeee✨, I'm Sourabh Bisht  
+# Hii, I'm Sourabh Bisht🐉  
 
 B.Tech CSE | Java & DSA Learner | Exploring Next.js   
 I created this GitHub profile to gain experience and look for job opportunities.
@@ -6,7 +6,7 @@ I love building projects and learning new tech every day.
  
 
 
-### 🧠 Currently Learning  
+### Currently Learning  
 - Java & DSA  
 - Next.js  
 - Cloud / DevOps  
@@ -18,7 +18,7 @@ I love building projects and learning new tech every day.
 
 
 
-⭐ **Thanks for visiting!**  
+**Thanks for visiting!**  
 
 
 <!--
